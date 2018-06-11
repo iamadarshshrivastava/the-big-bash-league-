@@ -1,8 +1,8 @@
 {
-  "token": "your bot token",
-  "mailGuildId": "id of the modmail inbox server",
-  "mainGuildId": "id of the main server where users will DM the bot",
-  "logChannelId": "id of the channel on the inbox server where notifications of new logs etc. will be posted",
+  "token": "NDU1NTY0MDg5MDcxMTA4MTAw.Df91hA.US0P07kb9xmNexCAqSuL8NC7Rd8 ",
+  "mailGuildId": "454143189159247873 ",
+  "mainGuildId": "454143189159247873 ",
+  "logChannelId": "455619056255500288 ",
 
   "status": "Message me for help!",
   "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
