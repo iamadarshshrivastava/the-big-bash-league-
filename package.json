@@ -7,8 +7,9 @@
     "start": "node Bot.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0",
-     
+        "express": "^4.13.3"
   }
- }
+
+
+
 
